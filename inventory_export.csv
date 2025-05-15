@@ -1,0 +1,17 @@
+Name,Type,InStock,Reorder,LastUpdated
+"Apples","Fruit",90,false,2025-03-16 12:00:00.0
+"Barbecue Sauce","Condiment",120,false,2025-03-05 12:00:00.0
+"Cheddar Cheese","Dairy",50,true,2025-03-02 12:00:00.0
+"Chicken","Meat",75,true,2025-03-04 12:00:00.0
+"Clams","Seafood",40,true,2025-03-06 12:00:00.0
+"Cornmeal","Grain",90,true,2025-03-09 12:00:00.0
+"Croutons","Bread",150,false,2025-03-08 12:00:00.0
+"Ground Beef","Meat",100,false,2025-03-01 12:00:00.0
+"Kidney Beans","Legume",100,false,2025-03-15 12:00:00.0
+"Lettuce","Vegetable",200,false,2025-03-07 12:00:00.0
+"Lobster","Seafood",30,true,2025-03-12 12:00:00.0
+"Macaroni Pasta","Pasta",80,false,2025-03-03 12:00:00.0
+"Pizza Dough","Dough",50,true,2025-03-13 12:00:00.0
+"Sausage","Meat",60,true,2025-03-10 12:00:00.0
+"Shrimp","Seafood",70,true,2025-03-11 12:00:00.0
+"Tomato Sauce","Condiment",80,false,2025-03-14 12:00:00.0
